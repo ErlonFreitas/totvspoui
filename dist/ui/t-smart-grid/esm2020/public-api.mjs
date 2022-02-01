@@ -1,0 +1,6 @@
+/*
+ * Public API Surface of t-smart-grid
+ */
+export * from './lib/t-smart-grid.component';
+export * from './lib/t-smart-grid.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uLy4uL3Byb2plY3RzL3VpL3Qtc21hcnQtZ3JpZC9zcmMvcHVibGljLWFwaS50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTs7R0FFRztBQUVILGNBQWMsOEJBQThCLENBQUM7QUFDN0MsY0FBYywyQkFBMkIsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgdC1zbWFydC1ncmlkXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvdC1zbWFydC1ncmlkLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi90LXNtYXJ0LWdyaWQubW9kdWxlJztcbiJdfQ==
